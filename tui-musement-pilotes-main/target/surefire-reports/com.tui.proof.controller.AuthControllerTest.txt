@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tui.proof.controller.AuthControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.04 s - in com.tui.proof.controller.AuthControllerTest

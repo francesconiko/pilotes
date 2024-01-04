@@ -1,0 +1,11 @@
+com\tui\proof\service\UserServiceTest.class
+com\tui\proof\SystemTest.class
+com\tui\proof\SystemTest$1.class
+com\tui\proof\MainApplicationTest.class
+com\tui\proof\repository\ClientRepositoryTest.class
+com\tui\proof\controller\OrderControllerTest.class
+com\tui\proof\repository\OrderRepositoryTest.class
+com\tui\proof\controller\UserControllerTest.class
+com\tui\proof\service\OrderServiceTest.class
+com\tui\proof\controller\AuthControllerTest.class
+com\tui\proof\service\AuthServiceTest.class
