@@ -48,8 +48,6 @@ It is a Spring Boot application employing Apache Maven.
 
 Swagger API documentation is integrated into the project.
 
-Development took place using "IntelliJ IDEA Community" IDE.
-
 The project utilizes an H2 in-memory database and employs the Hibernate dialect to define database relationships.
 
 The codebase includes tests at all levels, achieving a coverage exceeding 80%.
